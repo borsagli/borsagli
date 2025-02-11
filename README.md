@@ -3,10 +3,15 @@
 Estou cursando o 3º ano do Ensino Médio + Técnico em Informática - Desenvolvimento Web e Mobile, no Colégio COTEMIG. Apaixonada por tecnologia desde sempre, constantemente busco o aprendizado contínuo dessa área. Sou uma pessoa criativa, proativa, prestativa e comprometida.
 
 👩‍💻 UI/UX
+
 👩‍💻 Web Design
+
 👩‍💻 Programação em C#
+
 👩‍💻 HTML/CSS
+
 👩‍💻 JavaScript
+
 
   Linkedin: https://br.linkedin.com/in/laura-borsagli-7812a0306
 
