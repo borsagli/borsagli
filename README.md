@@ -1,6 +1,6 @@
 ## **E aí?** ✨
 
-Estou cursando o 3º ano do Ensino Médio + Técnico em Informática - Desenvolvimento Web e Mobile, no Colégio COTEMIG. Apaixonada por tecnologia desde sempre, constantemente busco o aprendizado contínuo dessa área. Sou uma pessoa criativa, proativa, prestativa e comprometida.
+Estou cursando o 3º ano do Ensino Médio + Técnico em Informática - Desenvolvimento Web e Mobile, no Colégio COTEMIG. Apaixonada por tecnologia desde sempre, constantemente busco o aprendizado contínuo dessa área. Atualmente sou estagiária de Desenvolvimento Web na Boreal Náutica LTDA.
 
  **Hard Skills**
 
