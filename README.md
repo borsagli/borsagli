@@ -28,6 +28,8 @@ Estou cursando o 3º ano do Ensino Médio + Técnico em Informática - Desenvolv
 
   Linkedin: https://br.linkedin.com/in/laura-borsagli-7812a0306
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?borsagli=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **borsagli/borsagli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
