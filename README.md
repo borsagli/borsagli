@@ -1,32 +1,33 @@
-## **E aí?** ✨
+### Olá, eu sou a Laura! 👋
 
-Estou cursando o 3º ano do Ensino Médio + Técnico em Informática - Desenvolvimento Web e Mobile, no Colégio COTEMIG. Apaixonada por tecnologia desde sempre, constantemente busco o aprendizado contínuo dessa área. Atualmente sou estagiária de Desenvolvimento Web na Boreal Náutica LTDA.
+Estudante do 3º ano do Ensino Médio + Técnico em Informática no Colégio COTEMIG, com foco em **Desenvolvimento Web e Mobile**. Sou apaixonada por tecnologia e busco constantemente aprimorar minhas habilidades.
 
- **Hard Skills**
+De outubro de 2024 a julho de 2025, atuei como **Estagiária de Desenvolvimento Web** na Boreal Náutica LTDA, desenvolvendo o site da empresa.
 
-👩‍💻 UI/UX
+---
 
-👩‍💻 Web Design
+### Minhas Habilidades Técnicas
 
-👩‍💻 Programação em C#
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
+<img src="https://img.shields.io/badge/UI/UX-4A90E2?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Badge">
 
-👩‍💻 HTML/CSS
+---
 
-👩‍💻 JavaScript
+### Soft Skills
 
+* Comunicação
+* Organização
+* Resolução de problemas
+* Inteligência emocional
 
-**Soft Skills**
+---
 
-👨‍👨‍👦 Comunicação
-
-👌 Organização
-
-💣 Resolução de problemas
-
-💕 Inteligência emocional
-
-
-  Linkedin: https://br.linkedin.com/in/laura-borsagli-7812a0306
+**Vamos nos conectar?**
+* [LinkedIn](https://br.linkedin.com/in/laura-borsagli-7812a0306)
 
 <!--
 **borsagli/borsagli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
