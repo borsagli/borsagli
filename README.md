@@ -33,8 +33,3 @@ Em 2024, atuei como **Estagiária de Desenvolvimento Web** na Boreal Náutica LT
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borsagli&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
 
----
-
-### Vamos nos conectar?
-
-* [LinkedIn](https://br.linkedin.com/in/laura-borsagli-7812a0306)
