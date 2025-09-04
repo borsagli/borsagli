@@ -2,8 +2,6 @@
 
 Estudante do 3º ano do Ensino Médio + Técnico em Informática no Colégio COTEMIG, com foco em **Desenvolvimento Front-End**. Sou apaixonada por tecnologia e busco constantemente aprimorar minhas habilidades.
 
-Em 2024, atuei como **Estagiária de Desenvolvimento Web** na Boreal Náutica LTDA, uma experiência que solidificou meus conhecimentos e me deu uma visão prática do mercado.
-
 ---
 
 ### Habilidades Técnicas
