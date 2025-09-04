@@ -23,7 +23,7 @@ Estudante do 3º ano do Ensino Médio + Técnico em Informática no Colégio COT
 * [LinkedIn](https://br.linkedin.com/in/laura-borsagli-7812a0306)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=borsagli&show_icons=true&theme=radical)
+![Top Langs](https://-github-readme-stats.vercel.app/api/top-langs/?username=borsagli&hide_title=true) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=borsagli&show_icons=true&theme=radical)
 <!--
 **borsagli/borsagli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
