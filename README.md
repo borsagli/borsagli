@@ -40,8 +40,7 @@ Estudante do 3º ano do Colégio COTEMIG, com foco em **Desenvolvimento Front-En
   <a href="mailto:lauraborsagli@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://www.linkedin.com/in/laura-borsagli-7812a0306/">
-<img src="https://media.giphy.com/media/26FPsJcM8f1610FjO/giphy.gif" alt="" width="100%">  </a>
+  <a href="https://www.linkedin.com/in/laura-borsagli-7812a0306/"> </a>
 </p>
 
 ---
