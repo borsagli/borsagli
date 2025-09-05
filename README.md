@@ -32,17 +32,23 @@ Estudante do 3º ano do Colégio COTEMIG, com foco em **Desenvolvimento Front-En
 </p>
 
 ### 💌 Vamos nos conectar?
+---
+### 💌 Vamos nos conectar?
 
 <p align="center">
   Contate-me!
   <br>
   <br>
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:lauraborsagli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://www.linkedin.com/in/laura-borsagli-7812a0306/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
 
-![Wave](https://raw.githubusercontent.com/Muzammil-M/Z-README-WAVES/main/assets/dark-pink.svg)
+---
+
+<div align="center">
+  ![Wave](https://raw.githubusercontent.com/Muzammil-M/Z-README-WAVES/main/assets/dark-pink.svg)
+</div>
