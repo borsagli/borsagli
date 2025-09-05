@@ -1,4 +1,6 @@
-### Olá, eu sou a Laura! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8E44AD&center=true&vCenter=true&width=500&lines=Olá,+sou+a+Laura!;Prazer+em+conhecê-lo!" alt="Typing SVG" />
+</p>
 
 Estudante do 3º ano do Colégio COTEMIG, com foco em **Desenvolvimento Front-End**. Sou apaixonada por tecnologia e busco constantemente aprimorar minhas habilidades.
 
@@ -29,3 +31,18 @@ Estudante do 3º ano do Colégio COTEMIG, com foco em **Desenvolvimento Front-En
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borsagli&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
 
+### 💌 Vamos nos conectar?
+
+<p align="center">
+  Contate-me!
+  <br>
+  <br>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/laura-borsagli-7812a0306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+![Wave](https://raw.githubusercontent.com/Muzammil-M/Z-README-WAVES/main/assets/dark-pink.svg)
