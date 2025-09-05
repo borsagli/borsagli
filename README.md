@@ -1,6 +1,6 @@
 ### Olá, eu sou a Laura! 👋
 
-Estudante do 3º ano do Ensino Médio + Técnico em Informática no Colégio COTEMIG, com foco em **Desenvolvimento Front-End**. Sou apaixonada por tecnologia e busco constantemente aprimorar minhas habilidades.
+Estudante do 3º ano do Colégio COTEMIG, com foco em **Desenvolvimento Front-End**. Sou apaixonada por tecnologia e busco constantemente aprimorar minhas habilidades.
 
 ---
 
