@@ -50,5 +50,4 @@ Estudante do 3º ano do Colégio COTEMIG, com foco em **Desenvolvimento Front-En
 ---
 
 <div align="center">
-  ![Wave](https://raw.githubusercontent.com/Muzammil-M/Z-README-WAVES/main/assets/dark-pink.svg)
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5oOHV1bWh0OG96a2hicXU5MTgzajFjNHF4aWcxemR6MjQ0MmZzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8r36v25TjK4V7T35T/giphy.gif" alt=""> </div>
