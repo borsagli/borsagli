@@ -12,7 +12,12 @@ Formada como Técnica em Informática pelo Colégio COTEMIG em **Desenvolvimento
 
 ### Estou estudando atualmente
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Badge">
+<img src="https://img.shields.io/badge/Marketing%20Cloud-FFB000?style=for-the-badge&logo=salesforce&logoColor=white" alt="Marketing Cloud Badge">
 
+<p>
+  <img src="https://img.shields.io/badge/Marketing%20Cloud-FFB000?style=flat-square&logo=salesforce&logoColor=white">
+</p>
 ---
 
 ### Soft Skills
