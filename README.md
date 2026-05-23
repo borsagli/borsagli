@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8E44AD&center=true&vCenter=true&width=500&lines=Olá,+sou+a+Laura!;Prazer+em+conhecê-lo!" alt="Typing SVG" />
 </p>
 
-Formada como Técnica em Informática pelo Colégio COTEMIG em **Desenvolvimento Web e Mobile**. Sou apaixonada por tecnologia e tenho interesse na área de **Desenvolvimento Front-End**.
+Formada como Técnica em Informática pelo Colégio COTEMIG em **Desenvolvimento Web e Mobile**. Atualmente atuo como estagiária na área de **Salesforce Marketing Cloud**, aprofundando meus conhecimentos em tecnologia e soluções digitais. Sou apaixonada por tecnologia e tenho interesse na área de **Desenvolvimento Front-End**.
 
 ---
 
@@ -15,9 +15,6 @@ Formada como Técnica em Informática pelo Colégio COTEMIG em **Desenvolvimento
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Badge">
 <img src="https://img.shields.io/badge/Marketing%20Cloud-FFB000?style=for-the-badge&logo=salesforce&logoColor=white" alt="Marketing Cloud Badge">
 
-<p>
-  <img src="https://img.shields.io/badge/Marketing%20Cloud-FFB000?style=flat-square&logo=salesforce&logoColor=white">
-</p>
 ---
 
 ### Soft Skills
